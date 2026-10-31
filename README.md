@@ -17,3 +17,4 @@ To what extent can dietary and lifestyle data be used to identify patterns in se
 - Python (Numpy + Matplotlib)
 - Scikit-learn
 - SQLite
+- Streamlit (Demo Application)
